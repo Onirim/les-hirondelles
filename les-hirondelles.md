@@ -17,20 +17,29 @@ La création d'un personnage des Hirondelles se fait en plusieurs étapes résum
 2. Répartition des compétences
 3. Choix des spécialités
 4. Répartition des résistances
-5. Attribution de l'équipement
+5. Tirage de l'Arcane
+6. Attribution de l'équipement
 
 ## Origine
 
-Sélectionnez une origine ou tirez là au dé. En fonction de l'origine choisie, sélectionnez ou tirez au dé la rupture qui a mené le personnage vers les Hirondelles.
+Sélectionnez une origine ou tirez là au dé. En fonction de l'origine choisie, sélectionnez ou tirez au dé la rupture qui a mené le personnage vers les Hirondelles. Vous obtenez les attributs et spécialités apparaissant dans la colonne bonus.
 
-| d20 | Origine | Rupture |
-| --- | --- | --- |
-| 1 | Vous êtes issu d'une famille paysanne et étiez promis à une vie simple et honnête jusqu'à ce que... | 1 vous fuyez un mariage arrangé, 2 vous soyez jeté dehors par la famille, 3 vous deveniez le seul survivant de votre famille |
-| 2 | Vous avez rejoint un maître artisan pour apprendre son art et l'exercer plus tard vous aussi, jusqu'à ce que... | 1 votre maitre vous renvoie, 2 votre maitre perde son atelier, 3 votre maitre ne meurt en laissant votre formation inachevée |
-| 3 | On vous a trouvé dans les bois et adopté, vous avez grandi normalement jusqu'à ce que... | 1 des signes féériques soient visibles sur vous et que l'on vous bannisse, 2 des signes démoniaques soient visibles sur vous et que l'on vous bannisse |
+| d20 | Origine | Rupture | Bonus |
+| --- | --- | --- | --- |
+| 1 | Vous êtes issu d'une famille paysanne et étiez promis à une vie simple et honnête jusqu'à ce que... | 1 vous décidiez de fuir un mariage arrangé, 2 vous soyez jeté dehors par votre famille, 3 vous rejetiez l'idée d'une vie de labeur à la ferme | Obtenez +4 en athlétisme, +4 en nature, +2 en artisanat, ainsi que la spécialisation paysannerie |
+| 2 | Vous avez rejoint un maître artisan pour apprendre son art et l'exercer plus tard vous aussi, jusqu'à ce que... | 1 votre maitre vous renvoie pour incompétence, 2 la corporation de votre maître lui interdise d'exercer, 3 votre maitre se retrouve accusé par votre faute et vous renvoie | Obtenez +4 en artisanat, +2 en art, +2 en savoir, +2 en bagou et la spécialisation relative à votre artisanat (voir la table des artisanats) |
+| 3 | On vous a trouvé dans les bois et adopté, vous avez grandi normalement jusqu'à ce que... | 1 des signes féériques soient visibles sur vous et que l'on vous bannisse, 2 des signes démoniaques soient visibles sur vous et vous forcent à fuir |
 | 4 | Vous avez rejoint les ordres dans un monastère ou une église jusqu'à ce que... | |
 
+| d20 | Artisanats |
+| 1 | Forge |
+| 2 | Menuiserie |
+| 3 | Tailleur |
+| 4 | Relieur |
+
 ## Les compétences
+
+Les compétences forment le socle technique du personnage. Elles sont représentées par un score allant de 1 à 20. A titre d'échelle, le score d'un apprenti en fin de formation est de 10 et le score d'un professionnel accompli est de 15.
 
 | Compétence | Détail |
 | --- | ------------- |
