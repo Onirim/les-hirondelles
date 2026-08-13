@@ -6,6 +6,10 @@ Les Hirondelles est un jeu de rôle de fantaisie picaresque dans lequel les pers
 
 ## Les Hirondelles
 
+La **Commission Royale des Routes et des Marches**, créée il y a deux siècles, est une organisation appartenant à la Couronne et octroyant à ses agents - les commissaires - le droit d'intervenir dans les affaires courantes du royaume, peu importe le duché. En effet, les Commissaires Royaux des Routes et des Marches peuvent officiellement intervenir partout où il existe des routes et des frontières dans le royaumes. L'objectif était double pour la Couronne : elle pouvait assister ses vassaux en leurs envoyant son aide pour gérer les cas exceptionnels et en même temps garder un œil sur ce qui se passait au sein de ses frontières. Or les Ducs goûtent en général assez peu qu'on puisse mettre le nez dans leurs affaires et n'ont eu de cesse de faire pression pour la dissolution de la Commission. Si la dissolution n'a jamais eu lieu - la Couronne sait que la Commission lui est utile - ses subventions ont diminué avec le temps et il en alla ainsi de la paie et de la qualité de ses agents. 
+
+A l'heure actuelle, la Commission Royale des Routes et des Marches existe encore mais elle emploie avant tout des hommes et femmes du peuple qui ne se sont pas intégré convenablement à la société, par accident ou de leur propre fait. On y trouve des apprentis jetés dehors par leur maître, des prêtres défroqués, des hors-la-loi graciés, des jeunes femmes fuyant un mariage arrangé, des petits nobles sans terre, et ainsi de suite. Issus des gens du peuple pour leur vaste majorité, les Commissaires Royaux des Routes et des Marches sont nommés les Hirondelles par la population. Tantôt annonciateurs de beau temps, tantôt oiseaux de malheur, on ne s'étonne plus de les voir arriver et partir comme des oiseaux migrateurs.
+
 # Les personnages
 
 En premier lieu, les personnages sont définis des attributs : leurs compétences et leurs résistances, ainsi que par leurs spécialités. Les attributs sont chiffrés sur une échelle allant de 1 (le plus mauvais) à 20 (le meilleur).
