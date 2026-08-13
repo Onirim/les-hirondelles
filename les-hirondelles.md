@@ -14,9 +14,10 @@ A l'heure actuelle, la Commission Royale des Routes et des Marches existe encore
 
 La création d'un personnage des Hirondelles se fait en plusieurs étapes résumées ici :
 1. Choix ou tirage de l'origine et de la rupture
-2. Attribution des compétences
-3. Attribution des spécialités
-4. Attribution des résistances
+2. Répartition des compétences
+3. Choix des spécialités
+4. Répartition des résistances
+5. Attribution de l'équipement
 
 ## Origine
 
