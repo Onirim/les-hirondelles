@@ -135,7 +135,7 @@ Un test d'attribut est basé sur la valeur de l'attribut testé (compétence ou 
 
 ### Spécialisation
 
-Un personnage possède 3 spécialités à la création. Lorsqu'une spécialisation peut s'appliquer à une compétence, le joueur peut choisir de relancer son dé. Il devra accepter le second résultat, quel qu'il soit.
+Un personnage possède 3 spécialités à la création. Lorsqu'une spécialisation peut s'appliquer à une compétence, le joueur peut choisir de relancer son dé. Il devra accepter le second résultat, quel qu'il soit. On ne peut faire appel à une spécialisation qu'une seule fois par scène. Pour les spécialisations de combat, il faudra bien choisir son moment, ou posséder plusieurs spécialisations applicables !
 
 ## Test opposé
 
