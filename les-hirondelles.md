@@ -17,8 +17,9 @@ La création d'un personnage des Hirondelles se fait en plusieurs étapes résum
 2. Répartition des compétences
 3. Choix des spécialités
 4. Répartition des résistances
-5. Tirage de l'Arcane du Destin
-6. Attribution de l'équipement
+5. Noter son Panache
+6. Tirage de l'Arcane du Destin
+7. Attribution de l'équipement
 
 ## Origine
 
@@ -85,7 +86,18 @@ Les résistances permettent de mesurer la résilience d'un personnage.
 | Physique | Résister à la fatigue, aux maladies ou aux risques de blessures graves. |
 | Mentale | Résister aux effets des incidents sociaux, du stress, de la manipulation mentale. |
 
-Un personnage possède autant de vitalité que la moitié de son score de résistance physique, arrondi au supérieur. Il possède en outre autant de détermination que son score de résistance mentale. La vitalité et la détermination sont des cases à cocher qui, une fois qu'elles sont toutes cochées, sortent le personnage du jeu pour le reste de la scène.
+Un personnage qui échoue à un jet de résistance est mis hors-jeu pour la scène. Dans le cas d'une résistance physique le personnage peut être blessé, mis à terre, envoyé valser dans une flaque de boue parmi les cochons ou désarmé et à la merci du vainqueur. Dans le cas d'une résistance mentale, le personnage est ridiculisé, sommé de se taire (ou emporté hors de la salle par la garde s'il ne le fait pas) ou encore accusé publiquement.
+
+## Le panache
+
+Le panache mesure l'importance des personnages dans les Hirondelles. Toutes les Hirondelles commencent leur carrière avec un point de panache.
+
+| Panache | Type de personnages |
+| --- | --- |
+| 0 | La plupart des gens du peuple, de la basse noblesse et du petit clergé |
+| 1 | Hirondelle débutante, sous-officiers de la garde, petite noblesse, clercs |
+| 2 | Hirondelle confirmée, officiers de la garde, noblesse reconnue, gardiens de la foi |
+| 3 | Hirondelle vétéran, officiers supérieurs, haute noblesse, inquisiteurs |
 
 ## L'Arcane du destin
 
@@ -100,14 +112,12 @@ Plusieurs tests existent dans le les Hirondelles, qui permettent de déterminer 
 Pour réaliser un test de compétence, 1d20 doit être lancé et le résultat du dé doit être inférieur ou égal à la valeur de la compétence testée. Un résultat naturel sur les dés de 1 est toujours un succès, un résultat naturel de 20 est toujours un échec, quel que soit la valeur ajustée testée.
 Si l'on a besoin de juger de la qualité du résultat d'une compétence, on peut utiliser le tableau ci-après.
 
-| Résultat | Qualité du succès | Gravité de l'échec |
+| Résultat | Qualité du succès | 
 | --- | --- | --- |
-| 1 | **Réussite critique** | |
-| 2-5 | Réussite médiocre | Échec terrible |
-| 6-10 | Réussite moyenne | Échec remarquable |
-| 11-15 | Belle réussite | Échec limité |
-| 16-19 | Excellente réussite | Échec léger |
-| 20 | | **Échec critique** |
+| 1-5 | Réussite médiocre |
+| 6-10 | Réussite moyenne | 
+| 11-15 | Belle réussite |
+| 16-20 | Excellente réussite |
 
 ### Ajustement de difficulté
 
@@ -137,7 +147,7 @@ Lorsque la valeur d'un attribut dépasse 20, la valeur du dépassement est ajout
 
 ### Combat
 
-Un combat est divisé en tours et se joue comme un test opposé où celui qui sort vainqueur du test de compétence de combat blesse son adversaire (et l'oblige donc à effectuer un test de résistance physique). Un test de résistance physique réussi par la cible lui fait cocher une case de vigueur. Un test de résistance physique raté fait cocher deux cases au personnage.
+Un combat est divisé en tours et se joue comme un test opposé où celui qui sort vainqueur du test de compétence de combat blesse son adversaire (et l'oblige donc à effectuer un test de résistance physique).
 
 Par défaut toutes les actions lors d'un combat sont considérées comme simultanées. Pour davantage de finesse, il est possible de traiter le combat par phase : on traite d'abord les actions à distance (tirs, magie instinctive, etc.) ensuite les déplacements, ensuite les actions de corps à corps (mêlée, bagarre, etc.) et enfin les actions relatives à l'environnement (escalader une façade de maison, forcer une porte, etc.).
 
@@ -145,12 +155,13 @@ Un personnage ne peut pas blesser plus d'une cible par tour de combat, même s'i
 
 ## Test de résistance
 
-Lorsqu'un événement peut blesser le personnage physiquement ou mentalement, un test de résistance doit être réalisé.
+Lorsqu'un événement peut blesser le personnage physiquement ou mentalement, un test de résistance doit être réalisé. S'il est réussi, le personnage peut continuer la scène. S'il est échoué, le personnage échoue et est mis hors-jeu pour la scène.
+
+### Utiliser le panache
+
+Au lieu d'être mis hors-jeu après un échec à un jet de résistance, un personnage peut décider d'échouer avec panache. Dans ce cas, il coche une case de panache et, s'il échoue bel et bien, il trouve un moyen de revenir dans la course pour continuer la scène. Le panache est regagné à chaque nouvelle séance.
 
 # L'équipement
-
-Les armures peuvent ajouter des cases de vigueur au personnage qui les porte (les cases attribuées par l'armure sont cochées avant celles du personnage). Par exemple une armure de mailles apporte 3 cases de vigueur supplémentaires.
-Les armes appliquent un nombre de cases à cocher minimum lorsque le jet de résistance physique est manqué. Par exemple une épée longue amène au minimum sa cible à trois cases de vigueur cochées du premier coup qui passe la résistance physique.
 
 # Le Royaume
 
