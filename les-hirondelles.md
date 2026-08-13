@@ -83,10 +83,10 @@ Les résistances permettent de mesurer la résilience d'un personnage.
 
 | Résistance | Détail |
 | --- | ------------- |
-| Physique | Résister à la fatigue, aux maladies ou aux risques de blessures graves. |
-| Mentale | Résister aux effets des incidents sociaux, du stress, de la manipulation mentale. |
+| Vigueur | Résister à la fatigue, aux maladies ou aux risques de blessures graves. |
+| Détermination | Résister aux effets des incidents sociaux, du stress, de la manipulation mentale. |
 
-Un personnage qui échoue à un jet de résistance est mis hors-jeu pour la scène. Dans le cas d'une résistance physique le personnage peut être blessé, mis à terre, envoyé valser dans une flaque de boue parmi les cochons ou désarmé et à la merci du vainqueur. Dans le cas d'une résistance mentale, le personnage est ridiculisé, sommé de se taire (ou emporté hors de la salle par la garde s'il ne le fait pas) ou encore accusé publiquement.
+Un personnage qui échoue à un jet de résistance est mis hors-jeu pour la scène. Dans le cas de la vigueur, le personnage peut être blessé, mis à terre, envoyé valser dans une flaque de boue parmi les cochons ou désarmé et à la merci du vainqueur. Dans le cas de la détermination, le personnage est ridiculisé, sommé de se taire (ou emporté hors de la salle par la garde s'il ne le fait pas) ou encore accusé publiquement.
 
 ## Le panache
 
@@ -109,7 +109,7 @@ Plusieurs tests existent dans le les Hirondelles, qui permettent de déterminer 
 
 ## Test de compétence
 
-Pour réaliser un test de compétence, 1d20 doit être lancé et le résultat du dé doit être inférieur ou égal à la valeur de la compétence testée. Un résultat naturel sur les dés de 1 est toujours un succès, un résultat naturel de 20 est toujours un échec, quel que soit la valeur ajustée testée.
+Pour réaliser un test de compétence, 1d20 doit être lancé et le résultat du dé doit être inférieur ou égal à la valeur de la compétence testée. En cas de réussite, plus le résultat est élevé, meilleur il est. Cela revient à dire qu'il est bon de faire moins que sa compétence, mais le plus haut possible tout de même. Un résultat naturel sur les dés de 1 est toujours un succès, un résultat naturel de 20 est toujours un échec, quel que soit la valeur ajustée testée.
 Si l'on a besoin de juger de la qualité du résultat d'une compétence, on peut utiliser le tableau ci-après.
 
 | Résultat | Qualité du succès | 
@@ -121,7 +121,7 @@ Si l'on a besoin de juger de la qualité du résultat d'une compétence, on peut
 
 ### Ajustement de difficulté
 
-Un test d'attribut est basé sur la valeur de l'attribut testé (compétence ou résistance). Le MJ peut accorder un bonus ou un malus à un test en fonction de sa difficulté.
+Un test d'attribut est basé sur la valeur de l'attribut testé (compétence ou résistance). Le MJ peut accorder un bonus ou un malus à un attribut en fonction de sa difficulté.
 
 | Difficulté | Modificateur |
 | --- | --- |
@@ -147,21 +147,21 @@ Lorsque la valeur d'un attribut dépasse 20, la valeur du dépassement est ajout
 
 ### Combat
 
-Un combat est divisé en tours et se joue comme un test opposé où celui qui sort vainqueur du test de compétence de combat blesse son adversaire (et l'oblige donc à effectuer un test de résistance physique).
+Un combat est divisé en tours et se joue comme un test opposé où celui qui sort vainqueur du test de compétence de combat oblige son adversaire à réaliser un test de résistance **en précisant ce qu'il compte lui faire**. Ce test de résistance est par sur la vigueur, mais il pourrait être sur la détermination (en supposant par exemple que l'adversaire cherche à vous humilier en public).
 
 Par défaut toutes les actions lors d'un combat sont considérées comme simultanées. Pour davantage de finesse, il est possible de traiter le combat par phase : on traite d'abord les actions à distance (tirs, magie instinctive, etc.) ensuite les déplacements, ensuite les actions de corps à corps (mêlée, bagarre, etc.) et enfin les actions relatives à l'environnement (escalader une façade de maison, forcer une porte, etc.).
 
-Un personnage ne peut pas blesser plus d'une cible par tour de combat, même s'il gagne le combat contre plusieurs de ses adversaires. Il devra choisir qui il tente de blesser.
-
 ## Test de résistance
 
-Lorsqu'un événement peut blesser le personnage physiquement ou mentalement, un test de résistance doit être réalisé. S'il est réussi, le personnage peut continuer la scène. S'il est échoué, le personnage échoue et est mis hors-jeu pour la scène.
+Lorsqu'un événement peut blesser le personnage physiquement ou mentalement, un test de résistance doit être réalisé. S'il est réussi, le personnage peut continuer la scène. S'il est échoué, le personnage échoue et est mis hors-jeu pour la scène. Être mis hors-jeu ne signifie pas être blessé et inconscient, mais signifie que le personnage ne peut plus rien tenter pour cette scène : toutes ses tentatives se solderaient par des échecs.
 
 ### Utiliser le panache
 
 Au lieu d'être mis hors-jeu après un échec à un jet de résistance, un personnage peut décider d'échouer avec panache. Dans ce cas, il coche une case de panache et, s'il échoue bel et bien, il trouve un moyen de revenir dans la course pour continuer la scène. Le panache est regagné à chaque nouvelle séance.
 
 # L'équipement
+Armes : les armes simples (de paysan) apportent un malus de -2 à la résistance de la cible, les armes létales apportent un bonus de -4 à la résistance de la cible.
+Armures : les armures légères (de cuir) apportent un bonus de +2 à la résistance du porteur, les armures lourdes (de métal) apportent un bonus de +4.
 
 # Le Royaume
 
