@@ -79,7 +79,7 @@ Vous devez attribuer deux scores de 12, deux scores de 10, trois scores de 8, et
 
 ## Les résistances
 
-Les résistances permettent de mesurer la résilience d'un personnage.
+Les résistances permettent de mesurer la résilience d'un personnage. A la création, répartissez 16 points entre la vigueur et la détermination, avec un maximum de 12 et un minimum de 4 dans ces attributs.
 
 | Résistance | Détail |
 | --- | ------------- |
@@ -153,7 +153,7 @@ Par défaut toutes les actions lors d'un combat sont considérées comme simulta
 
 ## Test de résistance
 
-Lorsqu'un événement peut blesser le personnage physiquement ou mentalement, un test de résistance doit être réalisé. S'il est réussi, le personnage peut continuer la scène. S'il est échoué, le personnage échoue et est mis hors-jeu pour la scène. Être mis hors-jeu ne signifie pas être blessé et inconscient, mais signifie que le personnage ne peut plus rien tenter pour cette scène : toutes ses tentatives se solderaient par des échecs.
+Lorsqu'un événement peut blesser le personnage physiquement ou mentalement, un test de résistance doit être réalisé. S'il est réussi, le personnage peut continuer la scène. S'il est échoué, le personnage échoue et est mis hors-jeu pour la scène. Être mis hors-jeu ne signifie pas être blessé et inconscient, mais signifie que le personnage ne peut plus rien tenter pour cette scène : toutes ses tentatives se solderaient par des échecs. La valeur de résistance ne peut jamais excéder 15, même avec des bonus. Si cela devait se produire, réduisez la valeur à 15.
 
 ### Utiliser le panache
 
