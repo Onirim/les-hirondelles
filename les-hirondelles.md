@@ -30,7 +30,7 @@ Sélectionnez une origine ou tirez là au dé. En fonction de l'origine choisie,
 | 2 | Vous avez rejoint un maître artisan pour apprendre son art et l'exercer plus tard vous aussi, jusqu'à ce que... | 1-2 votre maitre vous renvoie pour incompétence, 3-4 la corporation de votre maître lui interdise d'exercer, 5-6 votre maitre se retrouve accusé par votre faute et vous renvoie | Obtenez +4 en artisanat, +2 en art, +2 en savoir, +2 en bagou et la spécialisation relative à votre artisanat (voir la table des artisanats) |
 | 3 | On vous a trouvé dans les bois et adopté, vous avez grandi normalement jusqu'à ce que... | 1-2 des signes féériques apparaissent sur vous et que l'on vous bannisse, 3-4 des signes démoniaques apparaissent sur vous et vous forcent à fuir, 5-6 à définir | Obtenez +2 en occultisme, +2 en vigilance, +2 en nature, +2 en filouterie, +2 en bagou ainsi qu'une spécialisation de votre choix |
 | 4 | Vous avez rejoint les ordres dans un monastère ou une église jusqu'à ce que... | 1-2 vous perdiez la foi et abandonniez cette vocation, 3-4 vos manquements à la foi vous fassent jeter dehors, 5-6 une vision ne vous pousse à pratiquer votre foi sur les routes | Obtenez +4 en savoir, +2 en occultisme, +2 en bagou, +2 en médecine ainsi que la spécialisation théologie |
-| 5 | Vous étiez promu à une carrière de garde de la ville jusqu'à ce que... | 1-2 vous ne supportiez plus cette vie et abandonniez votre poste, 3-4 votre insubordination chronique vous fasse jeter de la garde, 5-6 vous soyez reconnu coupable d'avoir abusé de votre statut | Obtenez +4 en combat, +4 en vigilance, +2 en athlétisme ainsi que la spécialisation armes d'hast |
+| 5 | Vous étiez promu à une carrière de garde de la ville jusqu'à ce que... | 1-2 vous ne supportiez plus cette vie et abandonniez votre poste, 3-4 votre insubordination chronique vous fasse jeter de la garde, 5-6 vous avez arrêté la mauvaise personne et perdu votre poste | Obtenez +4 en combat, +4 en vigilance, +2 en athlétisme ainsi que la spécialisation armes d'hast |
 
 | d20 | Artisanats |
 | 1 | Forge |
@@ -46,17 +46,18 @@ Vous devez attribuer deux scores de 12, deux scores de 10, trois scores de 8, et
 
 | Compétence | Détail |
 | --- | ------------- |
-| Art | Changer, conter, dessiner, peindre, imaginer, transmettre des émotions et y être sensible. |
+| Art | Chanter, conter, dessiner, peindre, imaginer, transmettre des émotions et y être sensible. |
 | Artisanat | Bricoler, entretenir le matériel, fabriquer des choses complexe. |
 | Athlétisme | Courir, escalader, nager, pratiquer des sports et des activités physiques. |
 | Bagou | Être à l'aise en société, savoir parler en public, faire valoir son point de vue. |
 | Combat | Attaquer et se défendre physiquement, avec ou sans armes. |
+| Conduite | Monter à cheval, conduire des attelages, naviguer et avoir le pied marin. |
 | Filouterie | Agir discrètement, dérober des objets, crocheter des serrures. |
 | Médecine | Effectuer des premiers soins, sauver des vies, avoir des connaissances médicales. |
 | Nature | Savoir survivre dans la nature, connaître la faune et la flore, camper, se déplacer en extérieur. |
 | Occultisme | Avoir une attirance pour le surnaturel, connaître les vieilles traditions. |
 | Savoir | Lire et écrire, apprendre vite, se remémorer ses souvenirs et effectuer des recherches efficacement. |
-| Véhicules | Monter à cheval, conduire des attelages, naviguer et avoir le pied marin. |
+
 | Vigilance | Observer, remarquer les détails, être attentif à son environnement et y réagir rapidement. |
 
 ## Les résistances
