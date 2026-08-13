@@ -10,9 +10,15 @@ La **Commission Royale des Routes et des Marches**, créée il y a deux siècles
 
 A l'heure actuelle, la Commission Royale des Routes et des Marches existe encore mais elle emploie avant tout des hommes et femmes du peuple qui ne se sont pas intégré convenablement à la société, par accident ou de leur propre fait. On y trouve des apprentis jetés dehors par leur maître, des prêtres défroqués, des hors-la-loi graciés, des jeunes femmes fuyant un mariage arrangé, des petits nobles sans terre, et ainsi de suite. Issus des gens du peuple pour leur vaste majorité, les Commissaires Royaux des Routes et des Marches sont nommés les Hirondelles par la population. Tantôt annonciateurs de beau temps, tantôt oiseaux de malheur, on ne s'étonne plus de les voir arriver et partir comme des oiseaux migrateurs.
 
-# Les personnages
+# Créer un personnages
 
-En premier lieu, les personnages sont définis des attributs : leurs compétences et leurs résistances, ainsi que par leurs spécialités. Les attributs sont chiffrés sur une échelle allant de 1 (le plus mauvais) à 20 (le meilleur).
+La création d'un personnage des Hirondelles se fait en plusieurs étapes résumées ici :
+1. Choix ou tirage de l'origine et de la rupture
+2. Attribution des compétences
+3. Attribution des spécialités
+4. Attribution des résistances
+
+Les personnages sont définis des attributs : leurs compétences et leurs résistances, ainsi que par leurs spécialités. Les attributs sont chiffrés sur une échelle allant de 1 (le plus mauvais) à 20 (le meilleur).
 
 ## Les compétences
 
