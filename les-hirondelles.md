@@ -17,7 +17,7 @@ La création d'un personnage des Hirondelles se fait en plusieurs étapes résum
 2. Répartition des compétences
 3. Choix des spécialités
 4. Répartition des résistances
-5. Tirage de l'Arcane
+5. Tirage de l'Arcane du Destin
 6. Attribution de l'équipement
 
 ## Origine
@@ -74,7 +74,6 @@ Vous devez attribuer deux scores de 12, deux scores de 10, trois scores de 8, et
 | Nature | Savoir survivre dans la nature, connaître la faune et la flore, camper, se déplacer en extérieur. |
 | Occultisme | Avoir une attirance pour le surnaturel, connaître les vieilles traditions. |
 | Savoir | Lire et écrire, apprendre vite, se remémorer ses souvenirs et effectuer des recherches efficacement. |
-
 | Vigilance | Observer, remarquer les détails, être attentif à son environnement et y réagir rapidement. |
 
 ## Les résistances
@@ -86,7 +85,9 @@ Les résistances permettent de mesurer la résilience d'un personnage.
 | Physique | Résister à la fatigue, aux maladies ou aux risques de blessures graves. |
 | Mentale | Résister aux effets des incidents sociaux, du stress, de la manipulation mentale. |
 
-## L'Arcane
+Un personnage possède autant de vitalité que la moitié de son score de résistance physique, arrondi au supérieur. Il possède en outre autant de détermination que son score de résistance mentale. La vitalité et la détermination sont des cases à cocher qui, une fois qu'elles sont toutes cochées, sortent le personnage du jeu pour le reste de la scène.
+
+## L'Arcane du destin
 
 A ce stade, chaque personnage se voit attribuer une carte issue des Arcanes majeures du Tarot. La signification de cette carte ne vous apparaîtra que plus tard.
 
@@ -97,6 +98,16 @@ Plusieurs tests existent dans le les Hirondelles, qui permettent de déterminer 
 ## Test de compétence
 
 Pour réaliser un test de compétence, 1d20 doit être lancé et le résultat du dé doit être inférieur ou égal à la valeur de la compétence testée. Un résultat naturel sur les dés de 1 est toujours un succès, un résultat naturel de 20 est toujours un échec, quel que soit la valeur ajustée testée.
+Si l'on a besoin de juger de la qualité du résultat d'une compétence, on peut utiliser le tableau ci-après.
+
+| Résultat | Qualité du succès | Gravité de l'échec |
+| --- | --- | --- |
+| 1 | **Réussite critique** | |
+| 2-5 | Réussite médiocre | Échec terrible |
+| 6-10 | Réussite moyenne | Échec remarquable |
+| 11-15 | Belle réussite | Échec limité |
+| 16-19 | Excellente réussite | Échec léger |
+| 20 | | **Échec critique** |
 
 ### Ajustement de difficulté
 
@@ -126,9 +137,9 @@ Lorsque la valeur d'un attribut dépasse 20, la valeur du dépassement est ajout
 
 ### Combat
 
-Un combat est divisé en tours et se joue comme un test opposé où celui qui sort vainqueur du test de compétence de combat blesse son adversaire (et l'oblige donc à effectuer un test de résistance physique). L'arme utilisée par l'attaquant peu apporter des bonus de dégâts (+10 pour une arme simple, +20 pour une arme létale) qui se traduisent par des malus au jet de résistance physique de l'adversaire. La cible peut, elle, posséder des bonus d'armure (jusqu'à +50) qui augmentent son score de résistance physique.
+Un combat est divisé en tours et se joue comme un test opposé où celui qui sort vainqueur du test de compétence de combat blesse son adversaire (et l'oblige donc à effectuer un test de résistance physique). Un test de résistance physique réussi par la cible lui fait cocher une case de vigueur. Un test de résistance physique raté fait cocher deux cases au personnage.
 
-Par défaut toutes les actions lors d'un combat sont considérées comme simultanées. Pour davantage de finesse, il est possible de traiter le combat par phase : on traite d'abord les actions à distance (tirs, magie instinctive, etc.) ensuite les déplacements, ensuite les actions de corps à corps (mêlée, bagarre, etc.) et enfin les actions relatives à l'environnement (démarrer une voiture, forcer une porte, etc.).
+Par défaut toutes les actions lors d'un combat sont considérées comme simultanées. Pour davantage de finesse, il est possible de traiter le combat par phase : on traite d'abord les actions à distance (tirs, magie instinctive, etc.) ensuite les déplacements, ensuite les actions de corps à corps (mêlée, bagarre, etc.) et enfin les actions relatives à l'environnement (escalader une façade de maison, forcer une porte, etc.).
 
 Un personnage ne peut pas blesser plus d'une cible par tour de combat, même s'il gagne le combat contre plusieurs de ses adversaires. Il devra choisir qui il tente de blesser.
 
@@ -136,6 +147,10 @@ Un personnage ne peut pas blesser plus d'une cible par tour de combat, même s'i
 
 Lorsqu'un événement peut blesser le personnage physiquement ou mentalement, un test de résistance doit être réalisé.
 
+# L'équipement
+
+Les armures peuvent ajouter des cases de vigueur au personnage qui les porte (les cases attribuées par l'armure sont cochées avant celles du personnage). Par exemple une armure de mailles apporte 3 cases de vigueur supplémentaires.
+Les armes appliquent un nombre de cases à cocher minimum lorsque le jet de résistance physique est manqué. Par exemple une épée longue amène au minimum sa cible à trois cases de vigueur cochées du premier coup qui passe la résistance physique.
 
 # Le Royaume
 
