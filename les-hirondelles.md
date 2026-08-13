@@ -18,7 +18,16 @@ La création d'un personnage des Hirondelles se fait en plusieurs étapes résum
 3. Attribution des spécialités
 4. Attribution des résistances
 
-Les personnages sont définis des attributs : leurs compétences et leurs résistances, ainsi que par leurs spécialités. Les attributs sont chiffrés sur une échelle allant de 1 (le plus mauvais) à 20 (le meilleur).
+## Origine
+
+Sélectionnez une origine ou tirez là au dé. En fonction de l'origine choisie, sélectionnez ou tirez au dé la rupture qui a mené le personnage vers les Hirondelles.
+
+| d20 | Origine | Rupture |
+| --- | --- | --- |
+| 1 | Vous êtes issu d'une famille paysanne et étiez promis à une vie simple et honnête jusqu'à ce que... | 1 vous fuyez un mariage arrangé, 2 vous soyez jeté dehors par la famille, 3 vous deveniez le seul survivant de votre famille |
+| 2 | Vous avez rejoint un maître artisan pour apprendre son art et l'exercer plus tard vous aussi, jusqu'à ce que... | 1 votre maitre vous renvoie, 2 votre maitre perde son atelier, 3 votre maitre ne meurt en laissant votre formation inachevée |
+| 3 | On vous a trouvé dans les bois et adopté, vous avez grandi normalement jusqu'à ce que... | 1 des signes féériques soient visibles sur vous et que l'on vous bannisse, 2 des signes démoniaques soient visibles sur vous et que l'on vous bannisse |
+| 4 | Vous avez rejoint les ordres dans un monastère ou une église jusqu'à ce que... | |
 
 ## Les compétences
 
