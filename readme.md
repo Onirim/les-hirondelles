@@ -1,8 +1,8 @@
-# Fiche de projet — *Par Monts et par Bourgs au Royaume de Travers*
+# Fiche de projet — *Les Hirondelles*
 
 ## Concept général
 
-*Par Monts et par Bourgs* est un jeu de rôle de **fantasy d’aventure à échelle humaine**, inspiré dans son ton et son imaginaire par la bande dessinée franco-belge.
+*Les Hirondelles* est un jeu de rôle de **fantasy d’aventure à échelle humaine**, inspiré dans son ton et son imaginaire par la bande dessinée franco-belge.
 
 Le jeu se déroule dans un **petit royaume dense et vivant**, entouré de marches encore sauvages. Les personnages y exercent le rôle d’**aventuriers publics** : des individus plus ou moins officiellement reconnus, auxquels on confie les affaires trop dangereuses, trop étranges ou trop embarrassantes pour les autorités ordinaires.
 
