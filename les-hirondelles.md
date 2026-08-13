@@ -32,11 +32,28 @@ Sélectionnez une origine ou tirez là au dé. En fonction de l'origine choisie,
 | 4 | Vous avez rejoint les ordres dans un monastère ou une église jusqu'à ce que... | 1-2 vous perdiez la foi et abandonniez cette vocation, 3-4 vos manquements à la foi vous fassent jeter dehors, 5-6 une vision ne vous pousse à pratiquer votre foi sur les routes | Obtenez +4 en savoir, +2 en occultisme, +2 en bagou, +2 en médecine ainsi que la spécialisation théologie |
 | 5 | Vous étiez promu à une carrière de garde de la ville jusqu'à ce que... | 1-2 vous ne supportiez plus cette vie et abandonniez votre poste, 3-4 votre insubordination chronique vous fasse jeter de la garde, 5-6 vous avez arrêté la mauvaise personne et perdu votre poste | Obtenez +4 en combat, +4 en vigilance, +2 en athlétisme ainsi que la spécialisation armes d'hast |
 
-| d20 | Artisanats |
-| 1 | Forge |
-| 2 | Menuiserie |
-| 3 | Tailleur |
-| 4 | Relieur |
+| d20 | Artisanats | Connaissances |
+| --- | --- | --- |
+| 1 | Forge | Fer, outils, fers à cheval, réparation d'armes |
+| 2 | Menuiserie | Meubles, charpentes légères, portes, bois |
+| 3 | Tailleur | Vêtements, étoffes, modes et reprises |
+| 4 | Relieur | Livres, parchemins, reliures et conservation |
+| 5 | Cordonnier | Chaussures, bottes et travail du cuir |
+| 6 | Tanneur | Peaux, cuirs, fourrures et leurs traitements |
+| 7 | Potier | Terre, faïence, fours et récipients |
+| 8 | Tonnelier | Tonneaux, cuves, cerclages et conservation |
+| 9 | Charpentier | Charpentes, échafaudages et structures de bois |
+| 10 | Maçon | Pierre, mortier, murs, fortifications et bâtiments |
+| 11 | Serrurier | Serrures, clefs, mécanismes et ferronnerie fine |
+| 12 | Orfèvre | Métaux précieux, bijoux, poinçons et objets de valeur |
+| 13 | Verrier | Verre, vitres, fioles, miroirs et vitraux |
+| 14 | Teinturier | Pigments, teintures, étoffes et substances colorantes |
+| 15 | Charron | Roues, charrettes, essieux et véhicules terrestres |
+| 16 | Sellier | Selles, harnais, brides et équipements équestres |
+| 17 | Armurier | Armes, armures, casques et leur entretien |
+| 18 | Papetier | Papier, encres, fabrication de feuilles et filigranes |
+| 19 | Luthier | Luth, vielles, flûtes et autres instruments |
+| 20 | Imagier | Enseignes, images pieuses, cartes à jouer, gravures |
 
 ## Les compétences
 
@@ -74,6 +91,51 @@ Les résistances permettent de mesurer la résilience d'un personnage.
 A ce stade, chaque personnage se voit attribuer une carte issue des Arcanes majeures du Tarot. La signification de cette carte ne vous apparaîtra que plus tard.
 
 # Le système de jeu
+
+Plusieurs tests existent dans le les Hirondelles, qui permettent de déterminer le résultat d'une action ou d'une scène.
+
+## Test de compétence
+
+Pour réaliser un test de compétence, 1d20 doit être lancé et le résultat du dé doit être inférieur ou égal à la valeur de la compétence testée. Un résultat naturel sur les dés de 1 est toujours un succès, un résultat naturel de 20 est toujours un échec, quel que soit la valeur ajustée testée.
+
+### Ajustement de difficulté
+
+Un test d'attribut est basé sur la valeur de l'attribut testé (compétence ou résistance). Le MJ peut accorder un bonus ou un malus à un test en fonction de sa difficulté.
+
+| Difficulté | Modificateur |
+| --- | --- |
+| Très facile | +6 |
+| Facile | +4 |
+| Assez facile | +2 |
+| Moyen | - |
+| Assez difficile | -2 |
+| Difficile | -4 |
+| Très difficile| -6 |
+
+### Spécialisation
+
+Un personnage possède 3 spécialités à la création. Lorsqu'une spécialisation peut s'appliquer à une compétence, le joueur peut choisir de relancer son dé. Il devra accepter le second résultat, quel qu'il soit.
+
+## Test opposé
+
+Lorsque deux personnages s'opposent, chacun doit effectuer un test de la compétence ou de la résistance appropriée. Si un seul personnage réussit, il est déclaré vainqueur. Si les deux personnages réussissent, celui qui aura obtenu le plus haut score sur le dé obtient la victoire. Si les deux personnages échouent ou si le résultat obtenu est exactement le même, il s'agit d'un tour nul, aucun vainqueur ne se dessine.
+
+### Dépassement
+
+Lorsque la valeur d'un attribut dépasse 20, la valeur du dépassement est ajoutée au résultat du dé pour déterminer le vainqueur. Par exemple sur un jet de 10 pour une compétence de 24, le dépassement est de 4 (24-20) donc le résultat ajusté sera de 14 (10+4).
+
+### Combat
+
+Un combat est divisé en tours et se joue comme un test opposé où celui qui sort vainqueur du test de compétence de combat blesse son adversaire (et l'oblige donc à effectuer un test de résistance physique). L'arme utilisée par l'attaquant peu apporter des bonus de dégâts (+10 pour une arme simple, +20 pour une arme létale) qui se traduisent par des malus au jet de résistance physique de l'adversaire. La cible peut, elle, posséder des bonus d'armure (jusqu'à +50) qui augmentent son score de résistance physique.
+
+Par défaut toutes les actions lors d'un combat sont considérées comme simultanées. Pour davantage de finesse, il est possible de traiter le combat par phase : on traite d'abord les actions à distance (tirs, magie instinctive, etc.) ensuite les déplacements, ensuite les actions de corps à corps (mêlée, bagarre, etc.) et enfin les actions relatives à l'environnement (démarrer une voiture, forcer une porte, etc.).
+
+Un personnage ne peut pas blesser plus d'une cible par tour de combat, même s'il gagne le combat contre plusieurs de ses adversaires. Il devra choisir qui il tente de blesser.
+
+## Test de résistance
+
+Lorsqu'un événement peut blesser le personnage physiquement ou mentalement, un test de résistance doit être réalisé.
+
 
 # Le Royaume
 
