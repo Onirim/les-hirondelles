@@ -160,6 +160,14 @@ Lorsqu'un événement peut blesser le personnage physiquement ou mentalement, un
 Au lieu d'être mis hors-jeu après un échec à un jet de résistance, un personnage peut décider d'échouer avec panache. Dans ce cas, il coche une case de panache et, s'il échoue bel et bien, il trouve un moyen de revenir dans la course pour continuer la scène. Le panache est regagné à chaque nouvelle séance.
 
 # L'équipement
+
+## La monnaie
+
+Le Denier est une pièce de cuivre et il en faut douze pour faire un sol. Le Sol est une pièce d'argent et il en faut dix pour faire une Couronne. La Couronne est une grosse pièce d'argent valant dix Sols. Les Pistoles sont en or et valent 10 Couronnes. Les Florins sont une monnaie étrangère très prisée des marchands contenant beaucoup d'argent, qui valent cinq Sols.
+
+## Armes et armures
+
+Les armes et les armures apportent des bonus ou des malus aux jets de résistance (de la cible s'il s'agit d'une arme, au votre s'il s'agit d'une armure).
 Armes : les armes simples (de paysan) apportent un malus de -2 à la résistance de la cible, les armes létales apportent un bonus de -4 à la résistance de la cible.
 Armures : les armures légères (de cuir) apportent un bonus de +2 à la résistance du porteur, les armures lourdes (de métal) apportent un bonus de +4.
 
