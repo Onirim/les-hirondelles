@@ -114,7 +114,7 @@ Pour réaliser un test de compétence, 1d20 doit être lancé et le résultat du
 Si l'on a besoin de juger de la qualité du résultat d'une compétence, on peut utiliser le tableau ci-après.
 
 | Résultat | Qualité du succès | 
-| --- | --- | --- |
+| --- | --- |
 | 1-5 | Réussite médiocre |
 | 6-10 | Réussite moyenne | 
 | 11-15 | Belle réussite |
