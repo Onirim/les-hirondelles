@@ -13,19 +13,20 @@ A l'heure actuelle, la Commission Royale des Routes et des Marches existe encore
 # Créer un personnages
 
 La création d'un personnage des Hirondelles se fait en plusieurs étapes résumées ici :
-1. Choix ou tirage de l'origine et de la rupture
-2. Répartition des compétences
-3. Choix des spécialités
-4. Répartition des résistances
-5. Noter son Panache
-6. Tirage de l'Arcane du Destin
-7. Attribution de l'équipement
+1. Choix ou tirage de l'origine sociale et de la rupture
+2. Choix ou tirage de l'origine géographique
+3. Répartition des compétences
+4. Choix de la spécialité libre
+5. Répartition des résistances
+6. Noter son Panache
+7. Tirage de l'Arcane du Destin
+8. Attribution de l'équipement
 
-## Origine
+## Origine sociale
 
 Sélectionnez une origine ou tirez là au dé. En fonction de l'origine choisie, sélectionnez ou tirez au dé la rupture qui a mené le personnage vers les Hirondelles. Vous obtenez les attributs et spécialités apparaissant dans la colonne bonus.
 
-| d20 | Origine | Rupture (d6) | Bonus |
+| d20 | Origine sociale | Rupture (d6) | Bonus |
 | --- | --- | --- | --- |
 | 1 | Vous êtes issu d'une famille paysanne et étiez promis à une vie simple et honnête jusqu'à ce que... | 1-2 vous décidiez de fuir un mariage arrangé, 3-4 vous soyez jeté dehors par votre famille, 5-6 vous rejetiez l'idée d'une vie de labeur à la ferme | Obtenez +4 en athlétisme, +4 en nature, +2 en artisanat, ainsi que la spécialisation paysannerie |
 | 2 | Vous avez rejoint un maître artisan pour apprendre son art et l'exercer plus tard vous aussi, jusqu'à ce que... | 1-2 votre maitre vous renvoie pour incompétence, 3-4 la corporation de votre maître lui interdise d'exercer, 5-6 votre maitre se retrouve accusé par votre faute et vous renvoie | Obtenez +4 en artisanat, +2 en art, +2 en savoir, +2 en bagou et la spécialisation relative à votre artisanat (voir la table des artisanats) |
@@ -71,17 +72,30 @@ Sélectionnez une origine ou tirez là au dé. En fonction de l'origine choisie,
 | 19 | Luthier | Luth, vielles, flûtes et autres instruments |
 | 20 | Imagier | Enseignes, images pieuses, cartes à jouer, gravures |
 
-| d20 | Pays barbares | Description |
-| --- | ----- | ---------- |
-| 1-5 | Skeldrie | Peuple nordique montagnard inspiré des Vikings |
-| 6-10 | Ambaora | Peuple des jungles du sud lointain inspiré de l'Amazonie |
-| 11-15 | Ordaï | Peuple des cavaliers des steppes de l'est inspiré de la Mongolie |
-| 16-20 | Calèdre | Peuple des forêts de l'ouest inspiré des Pictes |
+## Origine géographique
 
-| d20 | Pays civilisés | Description |
+Chaque personnage doit choisir ou tirer au sort son origine géographique. Si vous avez tiré les résultats 6 et 7, utilisez respectivement les tables des Contrées barbares et des Pays civilisés. Sinon utilisez celle de la Région des Sept Ponts. Vous obtiendrez l'une des spécialisations apparaissant dans la liste de votre origine, au choix.
+
+| d6 | Région des Sept Ponts | Spécialisations possibles |
 | --- | ----- | ---------- |
-| 1-10 | Sultana d'Azmar | Peuple de savants et de marchands des portes du désert inspiré de l'Arabie |
-| 11-20 | République de Varesse | Peuple de marchands et d’intrigants inspiré de l'Italie |
+| 1 | Domaine de Brévaille | Vie urbaine, batellerie, corporations, administration, noblesse |
+| 2 | Hautecorne | Chevaux, montagne, chevalerie, fortifications, élevage |
+| 3 | Virelande | Agriculture, alcools, folklore, foires, moulins |
+| 4 | Montbrun | Forêts, souterrains, verrerie, anciennes coutumes, métaux |
+| 5 | Bellemer | Navigation, pêche, commerce, contrebande, marais |
+| 6 | Marches | Survie, pistage, anciennes coutumes, créatures, forêt |
+
+| d4 | Contrées barbares | Description | Spécialisations possibles |
+| --- | ----- | ---------- | ---------- |
+| 1 | Skeldrie | Peuple nordique montagnard inspiré des Vikings | Montagnes, navigation, clans, métal, sagas |
+| 2 | Ambaora | Peuple des jungles du sud lointain inspiré de l'Amazonie | Jungle, grands fleuves, plantes, esprits, chasse |
+| 3 | Ordaï | Peuple des cavaliers des steppes de l'est inspiré de la Mongolie |  Chevaux, steppe, archerie, clans, nomadisme |
+| 4 | Calèdre | Peuple des forêts de l'ouest inspiré des Pictes | Forêts, pistage, clans, vieilles traditions, guérilla |
+
+| d20 | Pays civilisés | Description | Spécialisations possibles |
+| --- | ----- | ---------- | ---------- |
+| 1-10 | Sultana d'Azmar | Peuple de savants et de marchands des portes du désert inspiré de l'Arabie | Désert, religion, sciences, commerce, philosophie |
+| 11-20 | République de Varesse | Peuple de marchands et d’intrigants inspiré de l'Italie | Commerce, monnaie, intrigues, duels, étiquette |
 
 ## Les compétences
 
@@ -162,7 +176,7 @@ Un test d'attribut est basé sur la valeur de l'attribut testé (compétence ou 
 
 ### Spécialisations
 
-Un personnage possède 2 spécialités à la création : l'une d'entre elles est dictée par son origine, l'autre est libre. Une spécialisation a deux usages :
+Un personnage possède 3 spécialités à la création : l'une d'entre elles est dictée par son origine sociale, l'autre par l'origine géographique, la troisième est libre. Une spécialisation a deux usages :
 - Elle apporte un bonus de +2 à un test lorsqu'elle est utile.
 - Elle supprime le malus de difficulté du à un manque de formation. Par exemple réaliser une opération chirurgicale sans une spécialité de chirurgie serait très difficile (-6), posséder la spécialité supprime de malus car le personnage est formé (en plus de lui apporter un bonus de +2 comme vu juste au dessus).
 
