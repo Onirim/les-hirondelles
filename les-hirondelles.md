@@ -30,7 +30,7 @@ Sélectionnez une origine ou tirez là au dé. En fonction de l'origine choisie,
 | 1 | Vous êtes issu d'une famille paysanne et étiez promis à une vie simple et honnête jusqu'à ce que... | 1-2 vous décidiez de fuir un mariage arrangé, 3-4 vous soyez jeté dehors par votre famille, 5-6 vous rejetiez l'idée d'une vie de labeur à la ferme | Obtenez +4 en athlétisme, +4 en nature, +2 en artisanat, ainsi que la spécialisation paysannerie |
 | 2 | Vous avez rejoint un maître artisan pour apprendre son art et l'exercer plus tard vous aussi, jusqu'à ce que... | 1-2 votre maitre vous renvoie pour incompétence, 3-4 la corporation de votre maître lui interdise d'exercer, 5-6 votre maitre se retrouve accusé par votre faute et vous renvoie | Obtenez +4 en artisanat, +2 en art, +2 en savoir, +2 en bagou et la spécialisation relative à votre artisanat (voir la table des artisanats) |
 | 3 | On vous a trouvé dans les bois et adopté, vous avez grandi normalement jusqu'à ce que... | 1-2 des signes féériques apparaissent sur vous et que l'on vous bannisse, 3-4 des signes démoniaques apparaissent sur vous et vous forcent à fuir, 5-6 à définir | Obtenez +2 en occultisme, +2 en vigilance, +2 en nature, +2 en filouterie, +2 en bagou ainsi qu'une spécialisation de votre choix |
-| 4 | Vous avez rejoint les ordres dans un monastère ou une église jusqu'à ce que... | 1-2 vous perdiez la foi et abandonniez cette vocation, 3-4 vos manquements à la foi vous fassent jeter dehors, 5-6 une vision ne vous pousse à pratiquer votre foi sur les routes | Obtenez +4 en savoir, +2 en occultisme, +2 en bagou, +2 en médecine ainsi que la spécialisation théologie |
+| 4 | Vous avez rejoint les ordres dans un monastère ou une église du Seuil jusqu'à ce que... | 1-2 vous perdiez la foi et abandonniez cette vocation, 3-4 vos manquements à la foi vous fassent jeter dehors, 5-6 une vision ne vous pousse à pratiquer votre foi sur les routes | Obtenez +4 en savoir, +2 en occultisme, +2 en bagou, +2 en médecine ainsi que la spécialisation théologie |
 | 5 | Vous étiez promu à une carrière de garde de la ville jusqu'à ce que... | 1-2 vous ne supportiez plus cette vie et abandonniez votre poste, 3-4 votre insubordination chronique vous fasse jeter de la garde, 5-6 vous avez arrêté la mauvaise personne et perdu votre poste | Obtenez +4 en combat, +4 en vigilance, +2 en athlétisme ainsi que la spécialisation armes d'hast |
 | 6 | Vous venez d'une contrée lointaine considérée comme barbare et avez débarqué au royaume car... | 1-2 vous avez été désigné pour un rituel et avez préféré fuir, 3-4 votre employeur a mis fin à votre contrat une fois arrivé au royaume, 5-6 les esprits vont ont révélé que votre destin se jouerait ici | Obtenez +2 en nature, +2 en athlétisme, +4 en combat, +2 en vigilance ainsi que la spécialisation survie en extérieur |
 | 7 | Vous venez d'une contrée lointaine considérée comme civilisé et avez débarqué au royaume car... | 1-2 vous êtes recherché chez vous pour un crime que vous n'avez pas commis, 3-4 vous avez perdu votre fortune et vos espoirs en arrivant au royaume, 5-6 vous souhaitez recommencer une nouvelle vie au royaume | Obtenez +2 en bagou, +2 en savoir, +2 en artisanat, +2 en art, +2 en combat ainsi que la spécialisation commerce |
@@ -40,8 +40,13 @@ Sélectionnez une origine ou tirez là au dé. En fonction de l'origine choisie,
 | 11 | Vous avez servi des années dans une auberge jusqu'à ce que... |
 | 12 | Vous avez grandi parmi les hors-la-loi d'une cité jusqu'à ce que... |
 | 13 | Vous avez vécu au sein d'un groupe de bandits jusqu'à ce que... |
-| 14 | Vous étiez l'apprenti d'un magicien jusqu'à ce que... |
+| 14 | Vous étiez l'apprenti corvéable à merci d'un magicien jusqu'à ce que... |
 | 15 | Vous étiez un espion ducal jusqu'à ce que... |
+| 16 | Vous avez appris la médecine au côté d'un guérisseur jusqu'à ce que... |
+| 17 | Vous êtes issu d'une famille de marchands et pensiez faire fortune jusqu'à ce que... |
+| 18 | Vous étiez membre de l'équipage d'un navire jusqu'à ce que... |
+| 19 | Vous faisiez partie des officiants de l'ancienne coutume jusqu'à ce que... |
+| 20 | Vous êtes issu de la haute noblesse et auriez vous approcher du pouvoir mais... |
 
 | d20 | Artisanats | Connaissances |
 | --- | --- | --- |
