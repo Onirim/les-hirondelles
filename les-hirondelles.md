@@ -76,14 +76,14 @@ Sélectionnez une origine ou tirez là au dé. En fonction de l'origine choisie,
 
 Chaque personnage doit choisir ou tirer au sort son origine géographique. Si vous avez tiré les résultats 6 et 7, utilisez respectivement les tables des Contrées barbares et des Pays civilisés. Sinon utilisez celle de la Région des Sept Ponts. Vous obtiendrez l'une des spécialisations apparaissant dans la liste de votre origine, au choix.
 
-| d6 | Région des Sept Ponts | Spécialisations possibles |
+| d6 | Royaume des Sept Ponts | Spécialisations possibles |
 | --- | ----- | ---------- |
 | 1 | Domaine de Brévaille | Vie urbaine, batellerie, corporations, administration, noblesse |
-| 2 | Hautecorne | Chevaux, montagne, chevalerie, fortifications, élevage |
-| 3 | Virelande | Agriculture, alcools, folklore, foires, moulins |
-| 4 | Montbrun | Forêts, souterrains, verrerie, anciennes coutumes, métaux |
-| 5 | Bellemer | Navigation, pêche, commerce, contrebande, marais |
-| 6 | Marches | Survie, pistage, anciennes coutumes, créatures, forêt |
+| 2 | Duché de Rocambre | Chevaux, montagne, chevalerie, fortifications, élevage |
+| 3 | Duché de Virelande | Agriculture, alcools, folklore, foires, anciennes coutumes |
+| 4 | Duché d'Arvèle | Forêts, souterrains, bijoux, anciennes coutumes, métaux |
+| 5 | Duché des Salines | Navigation, pêche, commerce, contrebande, marais |
+| 6 | Les Marches | Survie, pistage, anciennes coutumes, créatures, forêt |
 
 | d4 | Contrées barbares | Description | Spécialisations possibles |
 | --- | ----- | ---------- | ---------- |
@@ -242,7 +242,7 @@ Le fleuve est franchi par un vieux pont monumental qui est l'un des Sept Ponts o
 - Les Quais, quartier des bateliers, entrepôts, auberges bon marché et marchandises étrangères.
 - Le Vieux-Pont, ancien quartier autour de la route royale, aujourd'hui un peu délabré. C'est là que se trouve la Commission.
 
-## Le duché de Hautecorne (nord-ouest)
+## Le duché de Rocambre (nord-ouest)
 
 C'est un pays de collines élevées et de petites montagnes, avec des forteresses perchées, des torrents, des pâturages et des vallées difficiles d'accès. Sa noblesse est nombreuse, ancienne, susceptible et généralement beaucoup plus glorieuse dans ses récits familiaux que dans la réalité.
 
@@ -264,7 +264,7 @@ Ici, le fantastique s'insère directement dans le quotidien. Le troll du pont po
 - Problèmes typiques : querelles villageoises, foires, bêtes étranges, droits de passage, contrebande, vieilles coutumes.
 - La duchesse : pragmatique et assez favorable aux Hirondelles, surtout quand ils lui évitent d'envoyer ses propres hommes.
 
-## Le duché de Montbrun (nord-est)
+## Le duché d'Arvèle (nord-est)
 
 À l'est, le terrain devient plus accidenté : forêts profondes, collines sombres, anciennes mines, petites villes fortifiées. Le royaume y semble moins complètement civilisé.
 
@@ -275,9 +275,9 @@ C'est là que la frontière entre royaume et Marches commence véritablement à 
 - Problèmes typiques : faux-monnayeurs, mine abandonnée, pactes anciens, banditisme, conflits avec les habitants des Marches.
 - Le duc : riche, industrieux et soupçonné de considérer toute loi royale comme une suggestion.
 
-## Le duché de Bellemer (sud-est)
+## Le duché de Salines (sud-est)
 
-Bellemer occuperait une petite façade côtière : ports encombrés, falaises, marais salants, villages de pêcheurs, phares, abbayes côtières et petites îles. On y trouve beaucoup plus d'étrangers que dans le reste du royaume.
+Salines occuperait une petite façade côtière : ports encombrés, falaises, marais salants, villages de pêcheurs, phares, abbayes côtières et petites îles. On y trouve beaucoup plus d'étrangers que dans le reste du royaume.
 
 C'est là que circulent les florins étrangers ainsi que marchandises, contrebandiers et nouvelles venues d'ailleurs.
 
