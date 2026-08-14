@@ -34,6 +34,14 @@ Sélectionnez une origine ou tirez là au dé. En fonction de l'origine choisie,
 | 5 | Vous étiez promu à une carrière de garde de la ville jusqu'à ce que... | 1-2 vous ne supportiez plus cette vie et abandonniez votre poste, 3-4 votre insubordination chronique vous fasse jeter de la garde, 5-6 vous avez arrêté la mauvaise personne et perdu votre poste | Obtenez +4 en combat, +4 en vigilance, +2 en athlétisme ainsi que la spécialisation armes d'hast |
 | 6 | Vous venez d'une contrée lointaine considérée comme barbare et avez débarqué au royaume car... | 1-2 vous avez été désigné pour un rituel et avez préféré fuir, 3-4 votre employeur a mis fin à votre contrat une fois arrivé au royaume, 5-6 les esprits vont ont révélé que votre destin se jouerait ici | Obtenez +2 en nature, +2 en athlétisme, +4 en combat, +2 en vigilance ainsi que la spécialisation survie en extérieur |
 | 7 | Vous venez d'une contrée lointaine considérée comme civilisé et avez débarqué au royaume car... | 1-2 vous êtes recherché chez vous pour un crime que vous n'avez pas commis, 3-4 vous avez perdu votre fortune et vos espoirs en arrivant au royaume, 5-6 vous souhaitez recommencer une nouvelle vie au royaume | Obtenez +2 en bagou, +2 en savoir, +2 en artisanat, +2 en art, +2 en combat ainsi que la spécialisation commerce |
+| 8 | Vous avez été serviteur d'une maison noble jusqu'à ce que... | 
+| 9 | Vous faisiez partie d'une troupe d'artistes itinérants jusqu'à ce que... |
+| 10 | Vous êtes né de basse noblesse mais avez perdus vos privilèges car... |
+| 11 | Vous avez servi des années dans une auberge jusqu'à ce que... |
+| 12 | Vous avez grandi parmi les hors-la-loi d'une cité jusqu'à ce que... |
+| 13 | Vous avez vécu au sein d'un groupe de bandits jusqu'à ce que... |
+| 14 | Vous étiez l'apprenti d'un magicien jusqu'à ce que... |
+| 15 | Vous étiez un espion ducal jusqu'à ce que... |
 
 | d20 | Artisanats | Connaissances |
 | --- | --- | --- |
