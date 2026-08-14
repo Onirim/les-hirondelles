@@ -213,7 +213,7 @@ Un personnage possède autant de points d'encombrement que son score d'athlétis
 ## La monnaie
 
 | Monnaie | Valeur | Conversion | Détails |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | Denier | un oignon, un petit pain, une pomme, une bière | - | Petite pièce de cuivre frappée d'un pont d'un côté et d'un navet de l'autre |
 | Sol | un repas de taverne, une nuit à l'auberge | 10 deniers | Pièce d'argent frappée d'un pont d'un côté et d'un soleil de l'autre |
 | Couronne | une dague, un outil de fer, un vêtement simple | 10 sols | Large pièce d'argent frappée d'un pont d'un côté et d'une couronne de l'autre |
