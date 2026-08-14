@@ -92,10 +92,10 @@ Chaque personnage doit choisir ou tirer au sort son origine géographique. Si vo
 | 3 | Ordaï | Peuple des cavaliers des steppes de l'est inspiré de la Mongolie |  Chevaux, steppe, archerie, clans, nomadisme |
 | 4 | Calèdre | Peuple des forêts de l'ouest inspiré des Pictes | Forêts, pistage, clans, anciennes coutumes, guérilla |
 
-| d20 | Pays civilisés | Description | Spécialisations possibles |
+| d6 | Pays civilisés | Description | Spécialisations possibles |
 | --- | ----- | ---------- | ---------- |
-| 1-10 | Sultana d'Azmar | Peuple de savants et de marchands des portes du désert inspiré de l'Arabie | Désert, religion, sciences, commerce, philosophie |
-| 11-20 | République de Varesse | Peuple de marchands et d’intrigants inspiré de l'Italie | Commerce, monnaie, intrigues, duels, étiquette |
+| 1-3 | Sultana d'Azmar | Peuple de savants et de marchands des portes du désert inspiré de l'Arabie | Désert, religion, sciences, commerce, philosophie |
+| 4-6 | République de Varesse | Peuple de marchands et d’intrigants inspiré de l'Italie | Commerce, monnaie, intrigues, duels, étiquette |
 
 ## Les compétences
 
