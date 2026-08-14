@@ -336,7 +336,7 @@ De là vient le premier commandement : « Nul ne sait qui frappe à sa porte. »
 
 ## La vieille croyance
 
-Liée aux esprits et créatures invisibles vivant dans les lieux sauvages ou sortant la nuit parcourir les campagnes.
+Liée aux esprits et créatures invisibles vivant dans les lieux sauvages ou sortant la nuit parcourir les campagnes, la vieille croyance est beaucoup plus locale que la Foi du Seuil. Si l'on peut dire que la Foi du Seuil a suivi l'expansion des routes royales, les vieilles croyances restent, elles, à l'écart de ces routes.
 
 # Les Hirondelles
 
@@ -367,7 +367,17 @@ Bureaucrate extrêmement compétent, véritable personne qui fait fonctionner l'
 
 # L'art de la Magie
 
-## Les vieilles traditions
+La magie est partout dans le Royaume des Sept Ponts : les esprits qui murmurent dans les bois, les feux follets dans les marais, les saints qui accordent des bénédictions sont toutes des formes de magie, c'est à dire de la pratique rituelle des croyances.
+
+## Les vieilles coutumes
+
+Il est des us et coutumes traditionnelles datant d'avant l'arrivée de la Foi du Seuil et l'expansion des routes royales qui recèlent une part de magie en elle. Ces coutumes ne nécessitent pas de rituels particulier pour être appliquées : on les connait ou pas. Chaque personnage connait les vieilles coutumes en fonction de son niveau de compétence d'occultisme. Une spécialité sur les vieilles coutumes apporte 2 points de plus.
+
+| Valeur | Coutume  | Détails |
+| --- | --- | ------------ |
+| 6 | Le sel | Le sel repousse les fantômes |
+| 7 | Le fer froid | Le fer froid peut blesser les créatures féériques |
+| 8 | |
 
 ## La magie populaire
 
