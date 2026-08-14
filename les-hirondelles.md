@@ -19,8 +19,7 @@ La création d'un personnage des Hirondelles se fait en plusieurs étapes résum
 4. Choix de la spécialité libre
 5. Répartition des résistances
 6. Noter son Panache
-7. Tirage de l'Arcane du Destin
-8. Attribution de l'équipement
+7. Attribution de l'équipement
 
 ## Origine sociale
 
@@ -139,10 +138,6 @@ Le panache mesure l'importance des personnages dans les Hirondelles. Toutes les 
 | 1 | Hirondelle débutante, sous-officiers de la garde, petite noblesse, clercs |
 | 2 | Hirondelle confirmée, officiers de la garde, noblesse reconnue, gardiens de la foi |
 | 3 | Hirondelle vétéran, officiers supérieurs, haute noblesse, inquisiteurs |
-
-## L'Arcane du destin
-
-A ce stade, chaque personnage se voit attribuer une carte issue des Arcanes majeures du Tarot. La signification de cette carte ne vous apparaîtra que plus tard.
 
 # Le système de jeu
 
