@@ -133,9 +133,13 @@ Un test d'attribut est basé sur la valeur de l'attribut testé (compétence ou 
 | Difficile | -4 |
 | Très difficile| -6 |
 
-### Spécialisation
+### Spécialisations
 
-Un personnage possède 3 spécialités à la création. Lorsqu'une spécialisation peut s'appliquer à une compétence, le joueur peut choisir de relancer son dé. Il devra accepter le second résultat, quel qu'il soit. On ne peut faire appel à une spécialisation qu'une seule fois par scène. Pour les spécialisations de combat, il faudra bien choisir son moment, ou posséder plusieurs spécialisations applicables !
+Un personnage possède 2 spécialités à la création : l'une d'entre elles est dictée par son origine, l'autre est libre. Une spécialisation a deux usages :
+- Elle apporte un bonus de +2 à un test lorsqu'elle est utile.
+- Elle supprime le malus de difficulté du à un manque de formation. Par exemple réaliser une opération chirurgicale sans une spécialité de chirurgie serait très difficile (-6), posséder la spécialité supprime de malus car le personnage est formé (en plus de lui apporter un bonus de +2 comme vu juste au dessus).
+
+Il est possible de cumuler jusqu'à deux spécialités sur un même test, donc pour un bonus de +4.
 
 ## Test opposé
 
