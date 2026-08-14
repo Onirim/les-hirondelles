@@ -94,7 +94,7 @@ Chaque personnage doit choisir ou tirer au sort son origine géographique. Si vo
 | d6 | Pays civilisés | Description | Spécialisations possibles |
 | --- | ----- | ---------- | ---------- |
 | 1-3 | Sultana d'Azmar | Peuple de savants et de marchands des portes du désert inspiré de l'Arabie | Désert, religion, sciences, commerce, philosophie |
-| 4-6 | République de Varesse | Peuple de marchands et d’intrigants inspiré de l'Italie | Commerce, monnaie, intrigues, duels, étiquette |
+| 4-6 | République de Variezza | Peuple de marchands et d’intrigants inspiré de l'Italie | Commerce, monnaie, intrigues, duels, étiquette |
 
 ## Les compétences
 
@@ -219,7 +219,7 @@ Un personnage possède autant de points d'encombrement que son score d'athlétis
 | Sol | un repas de taverne, une nuit à l'auberge | 10 deniers | Pièce d'argent frappée d'un pont d'un côté et d'un soleil de l'autre |
 | Couronne | une dague, un outil de fer, un vêtement simple | 10 sols | Large pièce d'argent frappée d'un pont d'un côté et d'une couronne de l'autre |
 | Pistole | une épée, un cheval de monte, un beau vêtement | 10 couronnes | Pièce d'or frappée d'un pont d'un côté et de profil du souverain de l'autre |
-| Florin | une arme, un cheval ou un vêtement de haute noblesse | 10 pistoles | Pièce d'or de Veresse frappée d'un navire d'un côté et d'une grappe de raisin de l'autre |
+| Florin | - | 5 pistoles environ | Pièce d'or de Variezza frappée d'un navire d'un côté et d'une grappe de raisin de l'autre |
 
 ## Armes et armures
 
