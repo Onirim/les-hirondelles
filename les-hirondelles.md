@@ -223,7 +223,7 @@ Un personnage possède autant de points d'encombrement que son score d'athlétis
 
 ## Armes et armures
 
-Les armes et les armures apportent des bonus ou des malus aux jets de résistance (de la cible s'il s'agit d'une arme, au votre s'il s'agit d'une armure). Les armes sont rangées par catégories, leur coût et leur effet dépendant de leur catégorie. Les armures fonctionnent différemment : chaque pièce d'armure portée coûte un point d'encombrement et apporte un bonus de +1 à la résistance (avec un maximum de 5 pièces portées). Ces bonus à la résistance peuvent être considéré comme des malus lorsque le personnage tente d'escalader, d'être discret, etc.
+Les armes et les armures apportent des bonus ou des malus aux jets de résistance (de la cible s'il s'agit d'une arme, au votre s'il s'agit d'une armure). Les armes sont rangées par catégories, leur coût et leur effet dépendant de leur catégorie. Les armures fonctionnent différemment : chaque pièce d'armure portée coûte un point d'encombrement et apporte un bonus à la résistance. On ne peut porter que 5 pièces maximum, et pas deux fois le même type de pièce. Ces bonus à la résistance peuvent être considéré comme des malus lorsque le personnage tente d'escalader, d'être discret, etc.
 
 | Catégorie d'arme | Coût | Exemple | Effet |
 | --- | --- | ----- | ---------- |
@@ -232,13 +232,18 @@ Les armes et les armures apportent des bonus ou des malus aux jets de résistanc
 | Moyenne | 5 couronnes | épée courte, hache, masse, arbalète légère, lance | -3 à la résistance |
 | Lourde | 1 pistole | épée longue, rapière, hache d'armes, masse d'armes, arbalète lourde, hallebarde | -4 à la résistance |
 
-| Armure | Coût |  Effet |
+| Armure | Coût |  Résistance |
 | --- | --- | ---------- |
-| Plastron | 1 couronne | +1 à la résistance |
-| Jambières | 1 couronne | +1 à la résistance |
-| Brassards | 1 couronne | +1 à la résistance |
-| Casque | 1 couronne | +1 à la résistance |
-| Bouclier | 1 couronne | +1 à la résistance |
+| Veste de cuir | 1 couronne | +1 |
+| Plastron de fer | 5 couronnes | +2 |
+| Jambières de cuir | 1 couronne | +1 |
+| Grèves de fer | 5 couronnes | +2 |
+| Brassards de cuir | 1 couronne | +1 |
+| Brassards de fer | 5 couronnes | +2 |
+| Casque de cuir | 1 couronne | +1 |
+| Heaume de fer | 5 couronnes | +2 |
+| Bouclier de bois | 1 couronne | +1 |
+| Écu de fer | 5 couronnes | +2 |
 
 # Le Royaume de Sept-Ponts
 
@@ -377,9 +382,14 @@ Il est des us et coutumes traditionnelles datant d'avant l'arrivée de la Foi du
 | --- | --- | ------------ |
 | 6 | Le sel | Le sel repousse les fantômes |
 | 7 | Le fer froid | Le fer froid peut blesser les créatures féériques |
-| 8 | |
+| 8 | ... |
 
 ## La magie populaire
 
+La magie populaire est issue des vieilles coutumes et n'est pas du tout appréciée par l’Église du Seuil qui la considère comme dangereuse, pervertie, et liée à des entités qui ne souhaitent pas le bien de l'humanité. Toutefois, les braves gens qui ont besoin d'un coup de pouce que la Foi du Seuil ne peut pas apporter se tournent souvent vers les rebouteux et sorcières des marais pour obtenir de l'aide. La magie populaire est un secret et apprendre un rituel nécessite ne peut se faire qu'en jeu. Lorsqu'un personnage veut mettre en pratique un sort de magie populaire, il doit pouvoir effectuer le rituel correspondant et réussir un test d'occultisme. Attention : un échec signifie que le rituel tourne en la défaveur du personnage qui l'a tenté ! Voici quelques exemples de rituels de magie populaire.
+
+- **Aide du petit peuple** : Déposer un bol de lait sur le pas de la porte d'une maison, en dessous duquel est rédigée une demande courtoise qui ne doit être ni dangereuse, ni physiquement trop éprouvante. Succès : le petit peuple s'occupera de la demande pendant la nuit. Échec : le petit peuple jouera une farce au personnage pendant la nuit.
+
 ## La haute magie
 
+La haute magie est une affaire de magiciens bien établis, d'alchimistes renommés ou de nécromanciens terrifiants. Elle est capable de bien des prodiges mais nécessite toujours des rituels complexes pour être mise en œuvre (la boule de feu n'existe pas). Les personnages des joueurs ne pratiqueront jamais de haute magie, seuls de rares personnages non-joueurs en sont capables, et lorsqu'ils ne sont pas hors-la-loi du fait de leurs pratiques, ils possèdent une position sociale plutôt enviable.
