@@ -139,6 +139,9 @@ Le panache mesure l'importance des personnages dans les Hirondelles. Toutes les 
 | 2 | Hirondelle confirmée, officiers de la garde, noblesse reconnue, gardiens de la foi |
 | 3 | Hirondelle vétéran, officiers supérieurs, haute noblesse, inquisiteurs |
 
+## Attribution de l'équipement
+
+
 # Le système de jeu
 
 Plusieurs tests existent dans le les Hirondelles, qui permettent de déterminer le résultat d'une action ou d'une scène.
@@ -201,9 +204,21 @@ Au lieu d'être mis hors-jeu après un échec à un jet de résistance, un perso
 
 # L'équipement
 
+## Encombrement
+
+Dans les Hirondelles, la gestion de l'équipement porté est géré sous forme de points d'encombrement. Un point d'encombrement représente environ 1kg porté, soit un objet que l'on peut porter à une main. Un objet de 2kg ou plus ou qui nécessite deux mains pour être porté ou utilisé coûte 2 points d'encombrement. Plusieurs petits objets de même nature pouvant tenir dans la main peuvent occuper un seul point d'encombrement (bourse de pièces, sacs de billes, carquois de 12 flèches, etc.).
+
+Un personnage possède autant de points d'encombrement que son score d'athlétisme. Une spécialisation telle que voyage ou paquetage pourrait augmenter la valeur d'encombrement de 2 points. On ne peut transporter davantage d'objets que son score d'encombrement d'une scène sur l'autre : il faut donc faire un choix lors d'une scène en cours avant de passer à la suivante.
+
 ## La monnaie
 
-Le Denier est une pièce de cuivre et il en faut douze pour faire un sol. Le Sol est une pièce d'argent et il en faut dix pour faire une Couronne. La Couronne est une grosse pièce d'argent valant dix Sols. Les Pistoles sont en or et valent 10 Couronnes. Les Florins sont une monnaie étrangère très prisée des marchands contenant beaucoup d'argent, qui valent cinq Sols.
+| Monnaie | Valeur | Conversion | Détails |
+| --- | --- | --- |
+| Denier | un oignon, un petit pain, une pomme, une bière | - | Petite pièce de cuivre frappée d'un pont d'un côté et d'un navet de l'autre |
+| Sol | un repas de taverne, une nuit à l'auberge | 10 deniers | Pièce d'argent frappée d'un pont d'un côté et d'un soleil de l'autre |
+| Couronne | une dague, un outil de fer, un vêtement simple | 10 sols | Large pièce d'argent frappée d'un pont d'un côté et d'une couronne de l'autre |
+| Pistole | une épée, un cheval de monte, un beau vêtement | 10 couronnes | Pièce d'or frappée d'un pont d'un côté et de profil du souverain de l'autre |
+| Florin | une arme, un cheval ou un vêtement de haute noblesse | 10 pistoles | Pièce d'or de Veresse frappée d'un navire d'un côté et d'une grappe de raisin de l'autre |
 
 ## Armes et armures
 
