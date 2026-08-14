@@ -141,6 +141,7 @@ Le panache mesure l'importance des personnages dans les Hirondelles. Toutes les 
 
 ## Attribution de l'équipement
 
+à venir... à faire via tableaux d'équipement prédéfinis
 
 # Le système de jeu
 
@@ -208,7 +209,7 @@ Au lieu d'être mis hors-jeu après un échec à un jet de résistance, un perso
 
 Dans les Hirondelles, la gestion de l'équipement porté est géré sous forme de points d'encombrement. Un point d'encombrement représente environ 1kg porté, soit un objet que l'on peut porter à une main. Un objet de 2kg ou plus ou qui nécessite deux mains pour être porté ou utilisé coûte 2 points d'encombrement. Plusieurs petits objets de même nature pouvant tenir dans la main peuvent occuper un seul point d'encombrement (bourse de pièces, sacs de billes, carquois de 12 flèches, etc.).
 
-Un personnage possède autant de points d'encombrement que son score d'athlétisme. Une spécialisation telle que voyage ou paquetage pourrait augmenter la valeur d'encombrement de 2 points. On ne peut transporter davantage d'objets que son score d'encombrement d'une scène sur l'autre : il faut donc faire un choix lors d'une scène en cours avant de passer à la suivante.
+Un personnage possède autant de points d'encombrement que son score d'athlétisme avec un minimum de 10. Une spécialisation telle que voyage ou paquetage pourrait augmenter la valeur d'encombrement de 2 points. On ne peut transporter davantage d'objets que son score d'encombrement d'une scène sur l'autre : il faut donc faire un choix lors d'une scène en cours avant de passer à la suivante.
 
 ## La monnaie
 
