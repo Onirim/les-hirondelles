@@ -34,9 +34,9 @@ Sélectionnez une origine ou tirez là au dé. En fonction de l'origine choisie,
 | 5 | Vous étiez promu à une carrière de garde de la ville jusqu'à ce que... | 1-2 vous ne supportiez plus cette vie et abandonniez votre poste, 3-4 votre insubordination chronique vous fasse jeter de la garde, 5-6 vous avez arrêté la mauvaise personne et perdu votre poste | Obtenez +4 en combat, +4 en vigilance, +2 en athlétisme ainsi que la spécialisation armes d'hast |
 | 6 | Vous venez d'une contrée lointaine considérée comme barbare et avez débarqué au royaume car... | 1-2 vous avez été désigné pour un rituel et avez préféré fuir, 3-4 votre employeur a mis fin à votre contrat une fois arrivé au royaume, 5-6 les esprits vont ont révélé que votre destin se jouerait ici | Obtenez +2 en nature, +2 en athlétisme, +4 en combat, +2 en vigilance ainsi que la spécialisation survie en extérieur |
 | 7 | Vous venez d'une contrée lointaine considérée comme civilisé et avez débarqué au royaume car... | 1-2 vous êtes recherché chez vous pour un crime que vous n'avez pas commis, 3-4 vous avez perdu votre fortune et vos espoirs en arrivant au royaume, 5-6 vous souhaitez recommencer une nouvelle vie au royaume | Obtenez +2 en bagou, +2 en savoir, +2 en artisanat, +2 en art, +2 en combat ainsi que la spécialisation commerce |
-| 8 | Vous avez été serviteur d'une maison noble jusqu'à ce que... | 
+| 8 | Vous avez été serviteur d'une maison noble jusqu'à ce que... | 1-2 votre relation intime avec un membre de la maisonnée vous fasse jeter dehors, 3-4 l'on vous accuse d'avoir trahi la maisonnée au profit d'une autre, 5-6 vous subissiez trop souvent les avances d'un membre de la maisonnée et décidiez de fuir | Obtenez +2 en bagou, +2 en savoir, +2 en artisanat, +2 en filouterie, +2 en vigilance et la spécialisation étiquette |
 | 9 | Vous faisiez partie d'une troupe d'artistes itinérants jusqu'à ce que... |
-| 10 | Vous êtes né de basse noblesse mais avez perdus vos privilèges car... |
+| 10 | Vous êtes né de basse noblesse mais avez perdus vos privilèges car... | 1-2 votre petit domaine s'est affranchi de vous, 3-4 vous avez perdu votre petit domaine suite à un tournoi de joute désastreux, 5-6 vous avez déplu à votre suzerain qui vous a ôté vos privilèges | Obtenez +4 en combat, +2 en conduite, +2 en bagou, +2 en savoir ainsi que la spécialisation épées |
 | 11 | Vous avez servi des années dans une auberge jusqu'à ce que... |
 | 12 | Vous avez grandi parmi les hors-la-loi d'une cité jusqu'à ce que... |
 | 13 | Vous avez vécu au sein d'un groupe de bandits jusqu'à ce que... |
@@ -73,15 +73,15 @@ Sélectionnez une origine ou tirez là au dé. En fonction de l'origine choisie,
 
 | d20 | Pays barbares | Description |
 | --- | ----- | ---------- |
-| 1-5 | à définir | Peuple nordique montagnard inspiré des Vikings |
-| 6-10 | à définir | Peuple des jungles du sud lointain inspiré de l'Amazonie |
-| 11-15 | à définir | Peuple des cavaliers des steppes de l'est inspiré de la Mongolie |
-| 16-20 | à définir | Peuple des forêts de l'ouest inspiré des Pictes |
+| 1-5 | Skeldrie | Peuple nordique montagnard inspiré des Vikings |
+| 6-10 | Ambaora | Peuple des jungles du sud lointain inspiré de l'Amazonie |
+| 11-15 | Ordaï | Peuple des cavaliers des steppes de l'est inspiré de la Mongolie |
+| 16-20 | Calèdre | Peuple des forêts de l'ouest inspiré des Pictes |
 
 | d20 | Pays civilisés | Description |
 | --- | ----- | ---------- |
-| 1-10 | à définir | Peuple de savants et de marchands des portes du désert inspiré de l'Arabie |
-| 11-20 | à définir | Peuple de marchands et d’intrigants inspiré de l'Italie |
+| 1-10 | Sultana d'Azmar | Peuple de savants et de marchands des portes du désert inspiré de l'Arabie |
+| 11-20 | République de Varesse | Peuple de marchands et d’intrigants inspiré de l'Italie |
 
 ## Les compétences
 
