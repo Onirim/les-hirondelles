@@ -32,7 +32,8 @@ Sélectionnez une origine ou tirez là au dé. En fonction de l'origine choisie,
 | 3 | On vous a trouvé dans les bois et adopté, vous avez grandi normalement jusqu'à ce que... | 1-2 des signes féériques apparaissent sur vous et que l'on vous bannisse, 3-4 des signes démoniaques apparaissent sur vous et vous forcent à fuir, 5-6 à définir | Obtenez +2 en occultisme, +2 en vigilance, +2 en nature, +2 en filouterie, +2 en bagou ainsi qu'une spécialisation de votre choix |
 | 4 | Vous avez rejoint les ordres dans un monastère ou une église jusqu'à ce que... | 1-2 vous perdiez la foi et abandonniez cette vocation, 3-4 vos manquements à la foi vous fassent jeter dehors, 5-6 une vision ne vous pousse à pratiquer votre foi sur les routes | Obtenez +4 en savoir, +2 en occultisme, +2 en bagou, +2 en médecine ainsi que la spécialisation théologie |
 | 5 | Vous étiez promu à une carrière de garde de la ville jusqu'à ce que... | 1-2 vous ne supportiez plus cette vie et abandonniez votre poste, 3-4 votre insubordination chronique vous fasse jeter de la garde, 5-6 vous avez arrêté la mauvaise personne et perdu votre poste | Obtenez +4 en combat, +4 en vigilance, +2 en athlétisme ainsi que la spécialisation armes d'hast |
-| 6 | Vous venez d'un pays lointain considéré comme barbare et avez débarqué au royaume car... | 1-2 vous êtes recherché chez vous pour un crime que vous n'avez pas commis, 3-4 votre employeur a mis fin à votre contrat une fois arrivé au royaume, 5-6 les esprits vont ont révélé que votre destin se jouerait ici | Obtenez +2 en nature, +2 en athlétisme, +4 en combat, +2 en vigilance ainsi que la spécialisation survie en extérieur |
+| 6 | Vous venez d'une contrée lointaine considérée comme barbare et avez débarqué au royaume car... | 1-2 vous avez été désigné pour être sacrifié et avez préféré fuir, 3-4 votre employeur a mis fin à votre contrat une fois arrivé au royaume, 5-6 les esprits vont ont révélé que votre destin se jouerait ici | Obtenez +2 en nature, +2 en athlétisme, +4 en combat, +2 en vigilance ainsi que la spécialisation survie en extérieur |
+| 7 | Vous venez d'une contrée lointaine considérée comme civilisé et avez débarqué au royaume car... | 1-2 vous êtes recherché chez vous pour un crime que vous n'avez pas commis, 3-4 vous avez perdu votre fortune et vos espoirs en arrivant au royaume, 5-6 vous souhaitez recommencer une nouvelle vie au royaume | Obtenez +2 en bagou, +2 en savoir, +2 en artisanat, +2 en art, +2 en combat ainsi que la spécialisation commerce |
 
 | d20 | Artisanats | Connaissances |
 | --- | --- | --- |
@@ -56,6 +57,18 @@ Sélectionnez une origine ou tirez là au dé. En fonction de l'origine choisie,
 | 18 | Papetier | Papier, encres, fabrication de feuilles et filigranes |
 | 19 | Luthier | Luth, vielles, flûtes et autres instruments |
 | 20 | Imagier | Enseignes, images pieuses, cartes à jouer, gravures |
+
+| d20 | Pays barbares | Description |
+| --- | ----- | ---------- |
+| 1-5 | à définir | Peuple nordique montagnard inspiré des Vikings |
+| 6-10 | à définir | Peuple des jungles du sud lointain inspiré de l'Afrique centrale |
+| 11-15 | à définir | Peuple des chevaucheurs des steppes de l'est inspiré de la Mongolie |
+| 16-20 | à définir | Peuple des forêts de l'ouest inspiré des Pictes |
+
+| d20 | Pays civilisés | Description |
+| --- | ----- | ---------- |
+| 1-10 | à définir | Peuple de savants et de marchands des portes du désert inspiré de l'Arabie |
+| 11-20 | à définir | Peuple de marchands et d’intrigants inspiré de l'Italie |
 
 ## Les compétences
 
