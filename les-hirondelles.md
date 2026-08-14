@@ -223,9 +223,22 @@ Un personnage possède autant de points d'encombrement que son score d'athlétis
 
 ## Armes et armures
 
-Les armes et les armures apportent des bonus ou des malus aux jets de résistance (de la cible s'il s'agit d'une arme, au votre s'il s'agit d'une armure).
-Armes : les armes simples (de paysan) apportent un malus de -2 à la résistance de la cible, les armes létales apportent un bonus de -4 à la résistance de la cible.
-Armures : les armures légères (de cuir) apportent un bonus de +2 à la résistance du porteur, les armures lourdes (de métal) apportent un bonus de +4.
+Les armes et les armures apportent des bonus ou des malus aux jets de résistance (de la cible s'il s'agit d'une arme, au votre s'il s'agit d'une armure). Les armes sont rangées par catégories, leur coût et leur effet dépendant de leur catégorie. Les armures fonctionnent différemment : chaque pièce d'armure portée coûte un point d'encombrement et apporte un bonus de +1 à la résistance (avec un maximum de 5 pièces portées). Ces bonus à la résistance peuvent être considéré comme des malus lorsque le personnage tente d'escalader, d'être discret, etc.
+
+| Catégorie d'arme | Coût | Exemple | Effet |
+| --- | --- | ----- | ---------- |
+| Improvisée | - | Bâton, chope de bière, chaise | -1 à la résistance |
+| Légère | 1 couronne | dague, hachette, massette, fouet, arc, javeline | -2 à la résistance |
+| Moyenne | 5 couronnes | épée courte, hache, masse, arbalète légère, lance | -3 à la résistance |
+| Lourde | 1 pistole | épée longue, rapière, hache d'armes, masse d'armes, arbalète lourde, hallebarde | -4 à la résistance |
+
+| Armure | Coût |  Effet |
+| --- | --- | ---------- |
+| Plastron | 1 couronne | +1 à la résistance |
+| Jambières | 1 couronne | +1 à la résistance |
+| Brassards | 1 couronne | +1 à la résistance |
+| Casque | 1 couronne | +1 à la résistance |
+| Bouclier | 1 couronne | +1 à la résistance |
 
 # Le Royaume de Sept-Ponts
 
