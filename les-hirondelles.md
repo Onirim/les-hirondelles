@@ -319,9 +319,23 @@ C'est là que circulent les florins étrangers ainsi que marchandises, contreban
 
 Les Marches s'étendent au-delà des quatre provinces ducales et sont considérées comme des terres de la couronne mais imparfaitement contrôlées. 
 
+# Histoire du royaume
+
+## L'Ancien Monde
+
+Dominé par les êtres féériques et surtout par les Sidhe. A la fin de l'ère de l'Ancien Monde, on ne sait pas pourquoi les Sidhe disparurent.
+
+## Les Vieux Royaumes
+
+L'Ere des humains. Les fées se sont retirées à la lisière même si certaines créatures féériques mineures traitent avec les humains. Etablissement des Vieilles coutumes.
+
+## Le Royaume des Sept Ponts
+
+Union des Vieux Royaumes grâce à l'établissement des Sept Ponts et des Routes Royales. Etablissement de la Foi du Seuil.
+
 # Les croyances
 
-Plusieurs croyances coexistent au sein du Royaume de Sept-Ponts, bien que le culte du Seuil, dont la vertu cardinale est l'hospitalité.
+Plusieurs croyances coexistent au sein du Royaume de Sept Ponts, bien que le culte du Seuil, dont la vertu cardinale est l'hospitalité, soit le seul culte soutenu officiellement par la couronne.
 
 ## La Foi du Seuil
 
@@ -342,6 +356,12 @@ De là vient le premier commandement : « Nul ne sait qui frappe à sa porte. »
 ## La vieille croyance
 
 Liée aux esprits et créatures invisibles vivant dans les lieux sauvages ou sortant la nuit parcourir les campagnes, la vieille croyance est beaucoup plus locale que la Foi du Seuil. Si l'on peut dire que la Foi du Seuil a suivi l'expansion des routes royales, les vieilles croyances restent, elles, à l'écart de ces routes.
+
+### Le féérique ancien
+
+### Le féérique profond
+
+### Le féérique domestique
 
 # Les Hirondelles
 
@@ -403,3 +423,31 @@ Un personnage pourra apprendre un nombre de rituels de magie du Seuil égal à l
 ## La haute magie
 
 La haute magie est une affaire de magiciens bien établis, d'alchimistes renommés ou de nécromanciens terrifiants. Elle est capable de bien des prodiges mais nécessite toujours des rituels complexes pour être mise en œuvre (la boule de feu n'existe pas). Les personnages des joueurs ne pratiqueront jamais de haute magie, seuls de rares personnages non-joueurs en sont capables, et lorsqu'ils ne sont pas hors-la-loi du fait de leurs pratiques, ils possèdent une position sociale plutôt enviable.
+
+# Bestiaire
+
+## Les Sidhe
+
+Etymologiquement, êtres des tertres car on les considère comme éteints ou marchant sur les ruines de leurs domaines. Eux-mêmes se nomment le Peuple. Ce sont des personnes féeriques à part entière, souvent anciennes, puissantes et très individualisées. Une Dame sous la Colline, le Seigneur des Ronces, un prince chasseur, une vieille femme qui possède un lac, etc.
+
+## Les Boggarts
+
+Là, nous avons les innombrables créatures du folklore : lutins de maison, êtres des granges, petits hommes des chemins, frappeurs, farfadets, etc. Ils sont généralement moins puissants, plus locaux et plus obsessionnels que les Sidhes. Un Boggart peut être très intelligent, mais sa psychologie tourne souvent autour de quelques choses : 
+garder une maison, entretenir un four, voler du lait, compter certaines choses, réparer les chaussures, faire perdre leur chemin aux voyageurs, défendre son arbre, 
+jouer des tours à quelqu'un qui l'a vexé.
+
+## Les Esprits
+
+Un esprit est quelque chose qui a acquis une volonté. Ce n'est pas un être qui habite une rivière : c'est la rivière elle-même. Cela peut être un esprit de source, de forêt, de vent, de falaise, de vieux chêne, de marais, éventuellement même d'un lieu profondément transformé par les humains comme un vieux moulin.
+
+## Les Revenants
+
+Un revenant était humain et quelque chose l'empêche d'être véritablement mort. Un revenant peut être une apparition immatérielle, un mort parfaitement tangible, quelqu'un qui ne réalise pas qu'il est mort, un cadavre animé, une voix, une silhouette reproduisant éternellement le même événement.
+
+## Les Monstres
+
+Un monstre n'a pas sa place dans la logique du monde. La plupart ont été créés par les Sidhe anciens en guise d'armes. De fait la plupart des monstres sont anciens bien qu'ils puissent encore être créés par des pratiquants de haute-magie ou par des Sidhe modernes.
+
+## Les Enchantés
+
+Un cheval qui comprends les hommes, un meunier touché par la magie des fées, un chat qui parle.
