@@ -81,7 +81,7 @@ Chaque personnage doit choisir ou tirer au sort son origine géographique. Si vo
 | 2 | Duché de Rocambre | Chevaux, montagne, chevalerie, fortifications, élevage |
 | 3 | Duché de Virelande | Agriculture, alcools, folklore, foires, anciennes coutumes |
 | 4 | Duché d'Arvèle | Forêts, souterrains, bijoux, anciennes coutumes, métaux |
-| 5 | Duché des Salines | Navigation, pêche, commerce, contrebande, marais |
+| 5 | Duché de Salines | Navigation, pêche, commerce, contrebande, marais |
 | 6 | Les Marches | Survie, pistage, anciennes coutumes, créatures, forêt |
 
 | d4 | Contrées barbares | Description | Spécialisations possibles |
