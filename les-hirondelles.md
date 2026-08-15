@@ -154,10 +154,10 @@ Si l'on a besoin de juger de la qualité du résultat d'une compétence, on peut
 
 | Résultat | Qualité du succès | 
 | --- | --- |
-| 1-5 | Réussite médiocre |
-| 6-10 | Réussite moyenne | 
-| 11-15 | Belle réussite |
-| 16-20 | Excellente réussite |
+| 1-5 | Passable |
+| 6-10 | Moyenne | 
+| 11-15 | Significative |
+| 16-20 | Excellente |
 
 ### Ajustement de difficulté
 
