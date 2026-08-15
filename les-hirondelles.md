@@ -92,7 +92,7 @@ Chaque personnage doit choisir ou tirer au sort son origine géographique. Si vo
 | 4 | Calèdre | Peuple des forêts de l'ouest inspiré des Pictes | Forêts, pistage, clans, anciennes coutumes, guérilla |
 
 | d6 | Pays civilisés | Description | Spécialisations possibles |
-| --- | ----- | ---------- | ---------- |
+| ---- | ----- | ---------- | ---------- |
 | 1-3 | Sultana d'Azmar | Peuple de savants et de marchands des portes du désert inspiré de l'Arabie | Désert, religion, sciences, commerce, philosophie |
 | 4-6 | République de Variezza | Peuple de marchands et d’intrigants inspiré de l'Italie | Commerce, monnaie, intrigues, duels, étiquette |
 
